@@ -1,0 +1,15 @@
+current directory: /Users/lena/adwerx/internship-exercise/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/lena/.asdf/installs/ruby/2.7.4/bin/ruby -I /Users/lena/.asdf/installs/ruby/2.7.4/lib/ruby/2.7.0 -r ./siteconf20220511-31285-1au7fhb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lena/adwerx/internship-exercise/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/lena/adwerx/internship-exercise/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/lena/adwerx/internship-exercise/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20220511-31285-115v54b
